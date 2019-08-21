@@ -6,14 +6,14 @@ def using_unshift (array, element)
   array.unshift ("Staten Island")
 end 
 
-def using_pop (array, element)
+def using_pop (array)
   array.pop 
 end 
 
-def pop_with_args (array, element) 
+def pop_with_args (array) 
 end 
 
-def using_shift (array, element)
+def using_shift (array)
   array.shift 
 end 
 
