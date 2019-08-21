@@ -26,7 +26,7 @@ def using_concat (array)
   my_favorite_things.concat( ["sports cars", "flatiron school"])
 end  
 
-def using_insert (array)
+def using_insert (array, element)
   array.insert(4, "Python")
 end 
 
