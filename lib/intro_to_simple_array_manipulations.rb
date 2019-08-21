@@ -13,6 +13,13 @@ end
 def pop_with_args (array, element) 
 end 
 
-def 
+def using_shift (array, element)
+  array.shift 
+end 
+
+def shift_with_args (array, element)
+end 
+
+
   
   
