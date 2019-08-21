@@ -21,7 +21,10 @@ def shift_with_args (array, element)
 end  
 
 def using_concat (array)
-  my_favorite_things.concat
+  my_favorite_things.concat( ["sports cars", "flatiron school"])
+end 
+
+
 
 
 
