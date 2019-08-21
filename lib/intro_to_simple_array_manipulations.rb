@@ -23,7 +23,7 @@ def shift_with_args (array)
 end  
 
 def using_concat (array, array1)
-  my_favorite_things.concat(more_favs)
+  array.concat(more_favs)
 end  
 
 def using_insert (array, element)
